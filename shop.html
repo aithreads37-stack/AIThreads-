@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <meta name="description"
+          content="AIThreads Shop - Explore AI-generated premium T-shirt designs.">
+
+    <title>Shop | AIThreads</title>
+
+    <!-- Part 2B CSS will be connected here -->
+    <link rel="stylesheet" href="shop.css">
+
+</head>
+
+
+<body>
+
+
+    <!-- =================================
+         NAVIGATION
+    ================================== -->
+
+    <header class="shop-navbar">
+
+        <div class="shop-logo">
+            <a href="index.html">
+                AI<span>Threads</span>
+            </a>
+        </div>
+
+
+        <nav class="shop-nav-links">
+
+            <a href="index.html">
+                Home
+            </a>
+
+            <a href="shop.html" class="active">
+                Shop
+            </a>
+
+            <a href="index.html#why-us">
+                Why Us
+            </a>
+
+            <a href="index.html#reviews">
+                Reviews
+            </a>
+
+            <a href="index.html#payment">
+                Payment
+            </a>
+
+        </nav>
+
+
+        <a href="index.html"
+           class="back-home-button">
+
+            ← Home
+
+        </a>
+
+    </header>
+
+
+
+    <!-- =================================
+         SHOP HERO
+    ================================== -->
+
+    <main>
+
+        <section class="shop-hero">
+
+            <p class="shop-label">
+                AITHREADS COLLECTION
+            </p>
+
+            <h1>
+                SHOP THE
+                <span>FUTURE.</span>
+            </h1>
+
+            <p>
+                Explore unique AI-generated T-shirt designs
+                created for modern streetwear lovers.
+            </p>
+
+        </section>
+
+
+
+        <!-- =================================
+             SEARCH + FILTER
+        ================================== -->
+
+        <section class="shop-controls">
+
+            <!-- SEARCH -->
+
+            <div class="search-container">
+
+                <label for="product-search">
+                    Search Products
+                </label>
+
+                <input
+                    type="search"
+                    id="product-search"
+                    placeholder="Search T-shirts..."
+                    autocomplete="off">
+
+            </div>
+
+
+            <!-- CATEGORY FILTER -->
+
+            <div class="category-container">
+
+                <button
+                    class="category-button active"
+                    data-category="all">
+
+                    All
+
+                </button>
+
+
+                <button
+                    class="category-button"
+                    data-category="streetwear">
+
+                    Streetwear
+
+                </button>
+
+
+                <button
+                    class="category-button"
+                    data-category="anime">
+
+                    Anime
+
+                </button>
+
+
+                <button
+                    class="category-button"
+                    data-category="motivation">
+
+                    Motivation
+
+                </button>
+
+
+                <button
+                    class="category-button"
+                    data-category="ai-art">
+
+                    AI Art
+
+                </button>
+
+
+                <button
+                    class="category-button"
+                    data-category="premium">
+
+                    Premium
+
+                </button>
+
+            </div>
+
+        </section>
+
+
+
+        <!-- =================================
+             PRODUCT COUNT
+        ================================== -->
+
+        <div class="product-count">
+
+            <p>
+                Showing
+                <span id="product-count-number">
+                    6
+                </span>
+                products
+            </p>
+
+        </div>
+
+
+
+        <!-- =================================
+             PRODUCTS
+        ================================== -->
+<section class="shop-products" id="shop-products">
+
+</section>             
+
+
+        <!-- =================================
+             NO PRODUCTS MESSAGE
+        ================================== -->
+
+        <div
+            id="no-products"
+            class="no-products">
+
+            <h2>
+                No Design Found
+            </h2>
+
+            <p>
+                Try another product name or category.
+            </p>
+
+        </div>
+
+
+
+        <!-- =================================
+             COMING SOON
+        ================================== -->
+
+        <section class="shop-coming-soon">
+
+            <p>
+                MORE DESIGNS ARE COMING
+            </p>
+
+            <h2>
+                THE FUTURE IS
+                <span>LOADING...</span>
+            </h2>
+
+            <p>
+                New AI-generated designs will be
+                added to AIThreads soon.
+            </p>
+
+        </section>
+
+
+
+        <!-- =================================
+             SHOP CTA
+        ================================== -->
+
+        <section class="shop-cta">
+
+            <h2>
+                CAN'T FIND YOUR
+                <span>STYLE?</span>
+            </h2>
+
+            <p>
+                Follow AIThreads for new designs
+                and future collections.
+            </p>
+
+            <a
+                href="index.html"
+                class="shop-cta-button">
+
+                Back To Home
+
+            </a>
+
+        </section>
+
+
+    </main>
+
+
+
+    <!-- =================================
+         FOOTER
+    ================================== -->
+
+    <footer class="shop-footer">
+
+        <div class="shop-footer-brand">
+
+            <h2>
+                AI<span>Threads</span>
+            </h2>
+
+            <p>
+                Wear the Future.
+            </p>
+
+        </div>
+
+
+        <div class="shop-footer-links">
+
+            <a href="index.html">
+                Home
+            </a>
+
+            <a href="shop.html">
+                Shop
+            </a>
+
+            <a href="index.html#why-us">
+                Why Us
+            </a>
+
+            <a href="index.html#payment">
+                Payment
+            </a>
+
+        </div>
+
+
+        <div class="shop-footer-contact">
+
+            <p>
+                WhatsApp:
+                +91 79726 44495
+            </p>
+
+            <p>
+                Email:
+                aithreads37@email.com
+            </p>
+
+        </div>
+
+
+        <div class="shop-copyright">
+
+            <p>
+                © 2026 AIThreads. All Rights Reserved.
+            </p>
+
+        </div>
+
+    </footer>
+
+
+
+    <!-- =================================
+         JAVASCRIPT
+    ================================== -->
+
+    <!-- Part 2C JavaScript will be connected here -->
+
+    <script src="products.js"></script>
+    <script src="shop.js"></script>
+
+
+</body>
+
+</html>
