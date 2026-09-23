@@ -69,7 +69,7 @@ const AIThreadsProducts = [
 
         price: 699,
 
-        image: "images/product3.jpg",
+        image: "product3.jpg",
 
         status: "available",
 
@@ -93,7 +93,7 @@ const AIThreadsProducts = [
 
         price: 799,
 
-        image: "images/product4.jpg",
+        image: "product4.jpg",
 
         status: "available",
 
@@ -117,7 +117,7 @@ const AIThreadsProducts = [
 
         price: 899,
 
-        image: "images/product5.jpg",
+        image: "product5.jpg",
 
         status: "available",
 
@@ -141,11 +141,34 @@ const AIThreadsProducts = [
 
         price: 699,
 
-        image: "images/product6.jpg",
+        image: "product6.jpg",
 
         status: "available",
 
         tag: "TRENDING"
-    }
+    },
+   
+   
+    /* =====================================
+       PRODUCT 7
+    ====================================== */
 
+    {
+        id: "belive in yourself",
+
+        name: "Belive In Yourself",
+
+        category: "MOTIVATION",
+
+        description:
+            "Bold motivational streetwear design made for confidence, self-belief and individuality.",
+      
+        price: 749,
+
+        image: "product7.jpg",
+
+        status: "available",
+
+        tag: "TRENDING"
+    },
 ];
