@@ -110,7 +110,7 @@ const AIThreadsProducts = [
 
         name: "Do It Yourself",
 
-        category: "PREMIUM",
+        category: "MOTIVATION",
 
         description:
             "Modern inspired AI streetwear design with an modern aesthetic.",
@@ -121,7 +121,7 @@ const AIThreadsProducts = [
 
         status: "available",
 
-        tag: "PREMIUM"
+        tag: "NEW"
     },
 
 
