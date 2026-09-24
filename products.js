@@ -106,14 +106,14 @@ const AIThreadsProducts = [
     ====================================== */
 
     {
-        id: "old-money-crown",
+        id: "do-it-yourself",
 
-        name: "Old Money Crown",
+        name: "Do It Yourself",
 
         category: "PREMIUM",
 
         description:
-            "Luxury-inspired AI streetwear design with an old-money aesthetic.",
+            "Modern inspired AI streetwear design with an modern aesthetic.",
 
         price: 899,
 
