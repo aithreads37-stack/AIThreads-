@@ -1,2 +1,2 @@
 # AIThreads-
-Hii! AIThreads here to make ai design T shirts for you 
+Hii! AIThreads here to make AI design T shirts for you
