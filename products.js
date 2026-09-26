@@ -171,4 +171,29 @@ const AIThreadsProducts = [
 
         tag: "TRENDING"
     },
+
+    /*======================================
+      PRODUCT 8
+    ====================================== */
+
+    {
+        id: "girl power",
+
+        name: "Girl Power",
+
+        category: "WOMEN",
+
+        description: 
+          "Elegant Girl Power graphic T-shirt designed for confident and modern women",
+
+        price: 649,
+
+        image: "product8.jpg",
+
+        status: "available",
+
+        tag: "TRENDING"
+    
+    },
+  
 ];
