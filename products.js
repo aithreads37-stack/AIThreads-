@@ -195,5 +195,51 @@ const AIThreadsProducts = [
         tag: "TRENDING"
     
     },
+
+    /*======================================
+      PRODUCT 9
+    ====================================== */
+  
+    {
+        id: "pretty smart",
+      
+        name: "Pretty Smart",
+      
+        category: "WOMEN",
+      
+        description:
+          "Cute and playful Pretty Smart graphic T-shirt designed for confident everyday style",
+      
+        price: 699,
+      
+        image: "images/product9.jpg",
+
+        status: "available",
+
+        tag: "NEW"
+    },
+  
+    /*======================================
+      PRODUCT 10
+    ====================================== */
+
+    {
+        id: "just a girl",
+      
+        name: "Just a Girl",
+      
+        category: "WOMEN",
+      
+        description:
+          "Minimal feminine graphic T-shirt with a cute and playful everyday aesthetic",
+      
+        price: 699,
+      
+        image: "images/product10.jpg",
+
+        status: "available",
+
+        tag: "NEW"
+    },
   
 ];
