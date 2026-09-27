@@ -233,7 +233,7 @@ const AIThreadsProducts = [
         description:
           "Minimal feminine graphic T-shirt with a cute and playful everyday aesthetic",
       
-        price: 699,
+        price: 799,
       
         image: "product10.jpg",
 
