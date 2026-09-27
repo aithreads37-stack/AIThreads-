@@ -212,7 +212,7 @@ const AIThreadsProducts = [
       
         price: 699,
       
-        image: "images/product9.jpg",
+        image: "product9.jpg",
 
         status: "available",
 
@@ -235,7 +235,7 @@ const AIThreadsProducts = [
       
         price: 699,
       
-        image: "images/product10.jpg",
+        image: "product10.jpg",
 
         status: "available",
 
