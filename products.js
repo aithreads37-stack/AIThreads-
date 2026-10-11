@@ -60,7 +60,7 @@ const AIThreadsProducts = [
     {
         id: "built-different",
 
-        name: "Built Different",
+        name: "Built Different Oversized T shirt",
 
         category: "MOTIVATION",
 
@@ -84,7 +84,7 @@ const AIThreadsProducts = [
     {
         id: "dark-future",
 
-        name: "Dark Future",
+        name: "Dark Future Oversized T shirt",
 
         category: "AI ART",
 
@@ -108,7 +108,7 @@ const AIThreadsProducts = [
     {
         id: "do-it-yourself",
 
-        name: "Do It Yourself",
+        name: "Do It Yourself Oversized T shirt",
 
         category: "MOTIVATION",
 
@@ -132,7 +132,7 @@ const AIThreadsProducts = [
     {
         id: "be-real-not-perfect",
 
-        name: "Be Real Not Perfect",
+        name: "Be Real Not Perfect Oversized T shirt",
 
         category: "MOTIVATION",
 
@@ -156,7 +156,7 @@ const AIThreadsProducts = [
     {
         id: "belive in yourself",
 
-        name: "Belive In Yourself",
+        name: "Belive In Yourself Oversized T shirt",
 
         category: "MOTIVATION",
 
@@ -179,7 +179,7 @@ const AIThreadsProducts = [
     {
         id: "girl power",
 
-        name: "Girl Power",
+        name: "Girl Power Oversized T shirt",
 
         category: "WOMEN",
 
@@ -203,7 +203,7 @@ const AIThreadsProducts = [
     {
         id: "pretty smart",
       
-        name: "Pretty Smart",
+        name: "Pretty Smart Oversized T shirt",
       
         category: "WOMEN",
       
@@ -226,7 +226,7 @@ const AIThreadsProducts = [
     {
         id: "just a girl",
       
-        name: "Just a Girl",
+        name: "Just a Girl Oversized T shirt",
       
         category: "WOMEN",
       
