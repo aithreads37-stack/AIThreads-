@@ -34,7 +34,7 @@ const AIThreadsProducts = [
     ====================================== */
 
     {
-        id: "neon-samurai",
+        id: "neon-samurai-oversized-t-shirt",
 
         name: "Neon Samurai Oversized T shirt",
 
@@ -58,7 +58,7 @@ const AIThreadsProducts = [
     ====================================== */
 
     {
-        id: "built-different",
+        id: "built-different-oversized-t-shirt",
 
         name: "Built Different Oversized T shirt",
 
@@ -82,7 +82,7 @@ const AIThreadsProducts = [
     ====================================== */
 
     {
-        id: "dark-future",
+        id: "dark-future-oversized-t-shirt",
 
         name: "Dark Future Oversized T shirt",
 
@@ -106,7 +106,7 @@ const AIThreadsProducts = [
     ====================================== */
 
     {
-        id: "do-it-yourself",
+        id: "do-it-yourself-oversized-t-shirt",
 
         name: "Do It Yourself Oversized T shirt",
 
@@ -130,7 +130,7 @@ const AIThreadsProducts = [
     ====================================== */
 
     {
-        id: "be-real-not-perfect",
+        id: "be-real-not-perfect-oversized-t-shirt",
 
         name: "Be Real Not Perfect Oversized T shirt",
 
@@ -154,7 +154,7 @@ const AIThreadsProducts = [
     ====================================== */
 
     {
-        id: "belive in yourself",
+        id: "belive in yourself-oversized-t-shirt",
 
         name: "Belive In Yourself Oversized T shirt",
 
@@ -177,7 +177,7 @@ const AIThreadsProducts = [
     ====================================== */
 
     {
-        id: "girl power",
+        id: "girl power-oversized-t-shirt",
 
         name: "Girl Power Oversized T shirt",
 
@@ -201,7 +201,7 @@ const AIThreadsProducts = [
     ====================================== */
   
     {
-        id: "pretty smart",
+        id: "pretty-smart-oversized-t-shirt",
       
         name: "Pretty Smart Oversized T shirt",
       
@@ -224,7 +224,7 @@ const AIThreadsProducts = [
     ====================================== */
 
     {
-        id: "just a girl",
+        id: "just a girl oversized t shirt",
       
         name: "Just a Girl Oversized T shirt",
       
