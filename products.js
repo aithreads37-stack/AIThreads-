@@ -10,9 +10,9 @@ const AIThreadsProducts = [
     ====================================== */
 
     {
-        id: "cyber-wolf",
+        id: "cyber-wolf-oversized-t-shirt",
 
-        name: "Cyber Wolf",
+        name: "Cyber Wolf Oversized T shirt",
 
         category: "STREETWEAR",
 
@@ -36,7 +36,7 @@ const AIThreadsProducts = [
     {
         id: "neon-samurai",
 
-        name: "Neon Samurai",
+        name: "Neon Samurai Oversized T shirt",
 
         category: "ANIME",
 
