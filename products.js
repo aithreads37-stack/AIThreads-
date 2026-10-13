@@ -242,9 +242,9 @@ const AIThreadsProducts = [
         tag: "NEW"
     },
 
-   /*======================================
-       PRODUCT 11
-   ====================================== */
+    /*======================================
+        PRODUCT 11
+    ====================================== */
 
     {
         id: "1% better everyday oversized t shirt",
@@ -265,27 +265,27 @@ const AIThreadsProducts = [
         tag: "NEW"
     },
 
-   /*=======================================
-       PRODUCT 12
-    ======================================= */
+    /*=======================================
+        PRODUCT 12
+     ======================================= */
 
-   {
-       id: "cute cat oversized t shirt",
+     {
+        id: "cute cat oversized t shirt",
 
-       name: "Cute Cat Oversized T shirt",
+        name: "Cute Cat Oversized T shirt",
 
-       category: "WOMEN",
-
-       description: 
-          "A cute orange and black cat graphic on a white T-shirt, perfect for everyday casual streetwear.",
+        category: "WOMEN",
+ 
+        description: 
+           "A cute orange and black cat graphic on a white T-shirt, perfect for everyday casual streetwear.",
   
-       price: 659,
+        price: 659,
 
-       image: "images/product12.jpg",
+        image: "images/product12.jpg",
 
-       status: "available",
+        status: "available",
 
-       tag: "TRENDING"
-   },
+        tag: "TRENDING"
+     },
   
 ];
