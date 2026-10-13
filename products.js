@@ -241,5 +241,51 @@ const AIThreadsProducts = [
 
         tag: "NEW"
     },
+
+   /*======================================
+       PRODUCT 11
+   ====================================== */
+
+    {
+        id: "1% better everyday oversized t shirt",
+
+        name: "1% Better Everyday Oversized T shirt",
+
+        category: "MOTIVATION",
+
+        description:
+          "Minimal motivational streetwear featuring bold red and black 1% Better Everyday typography on a white T-shirt.",
+
+        price: 849,
+
+        image: "images/product11.jpg",
+
+        status: "available",
+
+        tag: "NEW"
+    },
+
+   /*=======================================
+       PRODUCT 12
+    ======================================= */
+
+   {
+       id: "cute cat oversized t shirt",
+
+       name: "Cute Cat Oversized T shirt",
+
+       category: "WOMEN",
+
+       description: 
+          "A cute orange and black cat graphic on a white T-shirt, perfect for everyday casual streetwear.",
+  
+       price: 659,
+
+       image: "images/product12.jpg",
+
+       status: "available",
+
+       tag: "TRENDING"
+   },
   
 ];
