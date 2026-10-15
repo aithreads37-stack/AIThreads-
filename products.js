@@ -287,5 +287,51 @@ const AIThreadsProducts = [
 
         tag: "TRENDING"
      },
+
+    /*========================================
+        PRODUCT 13 
+     ======================================= */
+
+   {
+      id: "anime queen",
+      
+      name: "Anime Queen",
+      
+      category: "ANIME",
+      
+      description:
+          "Stand out with vibrant anime artwork, bold colors, and premium streetwear style. Made for anime lovers who express themselves through fashion.",
+      
+      price: 749,
+      
+      image: "product13.jpg",
+
+      status: "available",
+
+      tag: "TRENDING"
+   },
+
+    /*=========================================
+        PRODUCT 14
+     ======================================== */
+
+    {
+      id: "anime warrior",
+       
+      name: "Anime Warrior",
+       
+      category: "ANIME",
+       
+      description: 
+       "Unleash your anime style with a striking warrior graphic featuring electric blue, red, yellow, and black colors. Perfect for bold streetwear looks.",
+       
+      price: 749,
+       
+      image: "product14.jpg",
+
+      status: "available",
+ 
+      tag: "TRENDING"
+    }
   
 ];
