@@ -267,7 +267,7 @@ const AIThreadsProducts = [
 
     /*=======================================
         PRODUCT 12
-     ======================================= */
+     ====================================== */
 
      {
         id: "cute cat oversized t shirt",
@@ -288,14 +288,14 @@ const AIThreadsProducts = [
         tag: "TRENDING"
      },
 
-    /*========================================
+    /*=======================================
         PRODUCT 13 
-     ======================================= */
+     ====================================== */
 
    {
-      id: "anime queen",
+      id: "anime queen oversized t shirt",
       
-      name: "Anime Queen",
+      name: "Anime Queen Oversized T shirt",
       
       category: "ANIME",
       
@@ -311,14 +311,14 @@ const AIThreadsProducts = [
       tag: "TRENDING"
    },
 
-    /*=========================================
+    /*=======================================
         PRODUCT 14
-     ======================================== */
+     ====================================== */
 
     {
-      id: "anime warrior",
+      id: "anime warrior oversized t shirt",
        
-      name: "Anime Warrior",
+      name: "Anime Warrior Oversized T shirt",
        
       category: "ANIME",
        
