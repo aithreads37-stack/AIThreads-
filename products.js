@@ -332,6 +332,97 @@ const AIThreadsProducts = [
       status: "available",
  
       tag: "TRENDING"
-    }
+    },
+
+    /*==========================================
+        PRODUCT 15
+    ========================================== */
+
+    {
+      id: "smile vibes",
+           
+      name: "Smile Vibes",
+           
+      category: "MOTIVATION",
+           
+      description:
+          "Spread positive vibes with bold, colorful typography. This statement graphic tee brings cheerful energy and a fresh streetwear look to your everyday style.",
+              
+      price: 699,
+              
+      image: "product15.jpg",
+
+      status: " available",
+
+      tag: "AESTHETIC"
+     },
+
+    /*========================================
+        PRODUCT 16
+    ======================================== */
+
+   {
+     id: "boss mode",
+        
+     name: "Boss Mode",
+        
+     category: "STREETWEAR",
+        
+     description: 
+        "Keep your style sharp with the Boss Mode graphic tee. Featuring a clean black, white, and red design, it's made for a confident, modern streetwear look.",
+           
+     price: 699,
+           
+     image: "product16.jpg",
+         
+     status: "available",
+
+     tag: "AESTHETIC"
+    },
+
+   /*=======================================
+        PRODUCT 17
+   ====================================== */
+
+  {
+    id: "panda hello",
+       
+    name: "Panda Hello",
+       
+    category: "CUTE ART",
+       
+    description:
+       "Add a playful touch to your everyday style with this adorable panda pocket graphic. A cute, minimalist design for fans of fun and casual streetwear.",
+          
+    price: 699,
+          
+    image: "product17.jpg",
+
+    status: "available",
+
+    tag: "WOMEN"   
+   },
+
+  /*========================================
+      PRODUCT 18
+  ======================================= */
+
+  {
+    id: "father's princess",
+       
+    name: "Father's Princess",
+       
+    category: "CUTE ART",
+       
+    description: "Celebrate the special bond between a father and his princess with this charming graphic tee, featuring pink lettering, hearts, and a golden crown.",
+       
+    price: 699,
+       
+    image: "product18.jpg",
+
+    status: "available",
+
+    tag: "WOMEN"
+  }
   
 ];
