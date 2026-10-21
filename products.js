@@ -439,7 +439,7 @@ const AIThreadsProducts = [
    description: 
       "Express your unique style with the Be You Tiful T-shirt. Featuring elegant pink lettering and a heart design on premium white fabric.",
       
-   price: 699,
+   price: 749,
       
    image: "product19.jpg",
       
@@ -462,7 +462,7 @@ const AIThreadsProducts = [
    description: 
       "Make a bold statement with the Beast Mode Win T-shirt. Featuring striking beast artwork and bold red typography for a powerful streetwear look.",
       
-   price: 699,
+   price: 849,
       
    image: "product20.jpg",
       
