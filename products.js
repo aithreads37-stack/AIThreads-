@@ -339,9 +339,9 @@ const AIThreadsProducts = [
     ========================================== */
 
     {
-      id: "smile vibes",
+      id: "smile vibes oversized t shirt",
            
-      name: "Smile Vibes",
+      name: "Smile Vibes Oversized T shirt",
            
       category: "MOTIVATION",
            
@@ -362,9 +362,9 @@ const AIThreadsProducts = [
     ======================================== */
 
    {
-     id: "boss mode",
+     id: "boss mode oversized t shirt",
         
-     name: "Boss Mode",
+     name: "Boss Mode Oversized T shirt",
         
      category: "STREETWEAR",
         
@@ -385,9 +385,9 @@ const AIThreadsProducts = [
    ====================================== */
 
   {
-    id: "panda hello",
+    id: "panda hello oversized t shirt",
        
-    name: "Panda Hello",
+    name: "Panda Hello Oversized T shirt",
        
     category: "CUTE ART",
        
@@ -408,9 +408,9 @@ const AIThreadsProducts = [
   ======================================= */
 
   {
-    id: "father's princess",
+    id: "father's princess oversized t shirt",
        
-    name: "Father's Princess",
+    name: "Father's Princess Oversized T shirt",
        
     category: "CUTE ART",
        
@@ -430,9 +430,9 @@ const AIThreadsProducts = [
    ========================================= */
   
  {
-   id: "be-you-tiful",
+   id: "be-you-tiful oversized t shirt",
       
-   name: "Be You Tiful T-Shirt",
+   name: "Be You Tiful Oversized T-Shirt",
       
    category: "MOTIVATION",
       
@@ -453,9 +453,9 @@ const AIThreadsProducts = [
    ========================================= */
 
 {
-   id: "beast-mode-win",
+   id: "play to win oversized t shirt",
       
-   name: "Beast Mode Win T-Shirt",
+   name: "Play To Win Oversized T-Shirt",
       
    category: "MOTIVATION",
       
