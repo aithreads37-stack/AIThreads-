@@ -423,6 +423,52 @@ const AIThreadsProducts = [
     status: "available",
 
     tag: "WOMEN"
-  }
+  },
+
+   /*=========================================
+     PRODUCT 19
+   ========================================= */
+  
+ {
+   id: "be-you-tiful",
+      
+   name: "Be You Tiful T-Shirt",
+      
+   category: "MOTIVATION",
+      
+   description: 
+      "Express your unique style with the Be You Tiful T-shirt. Featuring elegant pink lettering and a heart design on premium white fabric.",
+      
+   price: 699,
+      
+   image: "product19.jpg",
+      
+   status: "available",
+      
+   tag: "NEW"
+},
+
+   /*=========================================
+       PRODUCT 20
+   ========================================= */
+
+{
+   id: "beast-mode-win",
+      
+   name: "Beast Mode Win T-Shirt",
+      
+   category: "MOTIVATION",
+      
+   description: 
+      "Make a bold statement with the Beast Mode Win T-shirt. Featuring striking beast artwork and bold red typography for a powerful streetwear look.",
+      
+   price: 699,
+      
+   image: "product20.jpg",
+      
+   status: "available",
+      
+   tag: "NEW"
+},
   
 ];
