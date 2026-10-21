@@ -348,7 +348,7 @@ const AIThreadsProducts = [
       description:
           "Spread positive vibes with bold, colorful typography. This statement graphic tee brings cheerful energy and a fresh streetwear look to your everyday style.",
               
-      price: 699,
+      price: 899,
               
       image: "product15.jpg",
 
@@ -371,7 +371,7 @@ const AIThreadsProducts = [
      description: 
         "Keep your style sharp with the Boss Mode graphic tee. Featuring a clean black, white, and red design, it's made for a confident, modern streetwear look.",
            
-     price: 699,
+     price: 799,
            
      image: "product16.jpg",
          
@@ -416,7 +416,7 @@ const AIThreadsProducts = [
        
     description: "Celebrate the special bond between a father and his princess with this charming graphic tee, featuring pink lettering, hearts, and a golden crown.",
        
-    price: 699,
+    price: 899,
        
     image: "product18.jpg",
 
