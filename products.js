@@ -470,5 +470,74 @@ const AIThreadsProducts = [
       
    tag: "NEW"
 },
+
+   /*=========================================
+       PRODUCT 21
+   ========================================= */
+
+{
+   id: "girls-rules oversized t shirt",
+   
+   name: "Girls Rules Oversized T-Shirt",
+   
+   category: "STREETWEAR",
+   
+   description:
+      "Stand out with the Girls Rules oversized T-shirt, featuring vibrant pink typography and cute turquoise artwork on a clean white tee. Perfect for a bold, playful streetwear look.",
+   
+   price: 749,
+   
+   image: "product21.jpg",
+   
+   status: "available",
+   
+   tag: "NEW"
+},
+
+  /*=========================================
+       PRODUCT 22
+   ========================================= */ 
+
+{
+   id: "too-loud-too-opp oversized t shirt",
+      
+   name: "Too Loud Too OPP!! Oversized T-Shirt",
+       
+   category: "STREETWEAR",
+      
+   description:
+      "Make a statement with this typography T-shirt featuring bold black lettering and a unique modern design. A great choice for casual outfits and streetwear lovers.",
+      
+   price: 699,
+      
+   image: "product22.jpg",
+      
+   status: "available",
+      
+   tag: "NEW"
+},
+
+   /*=========================================
+       PRODUCT 23
+   ========================================= */ 
+
+{
+   id: "money-is-powerful oversized t shirt",
+      
+   name: "Money Is Powerful Oversized T-Shirt",
+       
+   category: "MOTIVATION",
+      
+   description:
+      "A statement T-shirt featuring the message 'Love is Beautiful but Money is Powerful' with a colorful graphic design. Perfect for those who enjoy expressive, contemporary fashion.",
+       
+   price: 699,
+      
+   image: "product23.jpg",
+      
+   status: "available",
+      
+   tag: "NEW"
+},
   
 ];
