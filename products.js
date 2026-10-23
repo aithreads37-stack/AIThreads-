@@ -531,7 +531,7 @@ const AIThreadsProducts = [
    description:
       "A statement T-shirt featuring the message 'Love is Beautiful but Money is Powerful' with a colorful graphic design. Perfect for those who enjoy expressive, contemporary fashion.",
        
-   price: 699,
+   price: 849,
       
    image: "product23.jpg",
       
